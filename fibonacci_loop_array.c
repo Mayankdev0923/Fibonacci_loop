@@ -13,6 +13,7 @@
     
     for (int i=0 ; i<n ; i++) {
       printf("%d ,\t",fib[i]);
+      
     }
     return 0;
   }
