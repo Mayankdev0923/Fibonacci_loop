@@ -2,8 +2,8 @@
 #include<math.h>
 
   int main() {
-    int n = 10;
-    int fib[10];
+    int n = 15;
+    int fib[15];
     fib[0]=0;
     fib[1]=1;
     
@@ -15,5 +15,7 @@
       printf("%d ,\t",fib[i]);
       
     }
+    printf("\n");
+    
     return 0;
   }
